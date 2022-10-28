@@ -1,0 +1,13 @@
+i5: https://en.wikichip.org/wiki/intel/core_i5
+    https://www.intel.com/content/www/us/en/content-details/708214/intel-core-processors-i5-8400-i5-8400t-i5-8420-i5-8420t-i5-8600t-i5-8600k-i5-8650-i5-8650k-i7-8700-i7-8700t-i7-8700k-i3-9100f-i5-9400-i5-9400p-i5-9400t-i5-9600-i5-9600k-25367-mdds.html
+    https://www.intel.com.br/content/www/br/pt/products/sku/230494/intel-core-i513600kf-processor-24m-cache-up-to-5-10-ghz/specifications.html
+
+i7: https://en.wikichip.org/wiki/intel/core_i7
+    https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_processors
+    https://www.intel.com.br/content/www/br/pt/products/sku/230500/intel-core-i713700k-processor-30m-cache-up-to-5-40-ghz/specifications.html
+
+Comparação de ambos: https://www.guru99.com/i5-vs-i7.html#:~:text=Key%20Difference%20between%20Intel%20Core%20i5%20and%20i7&text=Core%20i5%20Processor%20is%20dual,possible%20in%20Core%20i7%20processors.
+
+Hyper-Threading: https://www.intel.com.br/content/www/br/pt/gaming/resources/hyper-threading.html
+
+Memorias: https://pt.wikipedia.org/wiki/Hierarquia_de_mem%C3%B3ria#:~:text=Registrador%3A%20Mem%C3%B3ria%20tempor%C3%A1ria,de%20armazenamento%20permanente.
