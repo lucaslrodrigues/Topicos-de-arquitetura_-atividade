@@ -11,3 +11,16 @@ Comparação de ambos: https://www.guru99.com/i5-vs-i7.html#:~:text=Key%20Differ
 Hyper-Threading: https://www.intel.com.br/content/www/br/pt/gaming/resources/hyper-threading.html
 
 Memorias: https://pt.wikipedia.org/wiki/Hierarquia_de_mem%C3%B3ria#:~:text=Registrador%3A%20Mem%C3%B3ria%20tempor%C3%A1ria,de%20armazenamento%20permanente.
+
+DMA: https://pt.wikipedia.org/wiki/Acesso_direto_%C3%A0_mem%C3%B3ria
+https://adrenaline.com.br/artigos/v/72564/dma-o-que-e-direct-memory-access-e-como-funciona
+https://www.hardware.com.br/livros/hardware/dma.html#:~:text=Os%20canais%20de%20DMA%20s%C3%A3o,forma%20a%20utiliza%C3%A7%C3%A3o%20do%20processador.
+https://www.sciencedirect.com/topics/computer-science/direct-memory-access#:~:text=Modern%20computer%20systems%20use%20a,device%20and%20the%20system%20DRAM.
+
+Chip select: https://en.wikipedia.org/wiki/Chip_select
+https://slideplayer.com.br/slide/335422/
+https://en.wikipedia.org/wiki/Integrated_circuit
+
+Adress e data bus:
+https://www.techopedia.com/definition/6733/data-bus
+https://www.techopedia.com/definition/292/address-bus
