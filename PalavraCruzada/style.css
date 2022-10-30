@@ -1,0 +1,108 @@
+.containerGrid{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.palavra1_1{
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 1/2;
+}
+.palavra1_2 {
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 2/3;
+}
+.palavra1_3 {
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 3/4;
+}
+.palavra1_4 {
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 4/5;
+}
+.palavra1_5 {
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 5/6;
+}
+.palavra1_6 {
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 6/7;
+}
+.palavra1_7 {
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 7/8;
+}
+.palavra1_8 {
+    height: auto;
+    grid-column: 1/1;
+    grid-row: 8/9;
+}
+.palavra2_1 {
+    height: auto;
+    grid-column: 2/2;
+    grid-row: 4/5;
+}
+.palavra2_2 {
+    height: auto;
+    grid-column: 3/3;
+    grid-row: 4/5;
+}
+.padrao_input{
+    height: 40px;
+    width: 40px;
+    text-align: center;
+}
+.containerPalavra{
+    display:grid;
+    width: 80vw;
+        height: 80vh;
+        grid-template-columns: 
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px;
+        grid-template-rows:
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px
+            50px;
+
+            
+        
+          
+        
+}
