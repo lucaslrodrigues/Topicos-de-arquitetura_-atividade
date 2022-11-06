@@ -339,8 +339,8 @@ background: rgb(18, 162, 162);
     grid-row: 13/13;
 }
 .padrao_input{
-    height: 25px;
-    width: 25px;
+    height: 1.6vw;
+    width: 1.6vw;
     text-align: center;
 }
 .palavra15_1 {
@@ -450,44 +450,46 @@ background: rgb(18, 162, 162);
 }
 .containerPalavra{
     display:grid;
-    width: 30vw;
+    width: 40vw;
         height: 50vh;
+        justify-content: center;
+        align-items: center;
         
         grid-template-columns: 
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px;
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw;
         grid-template-rows:
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px
-            25px;
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw
+            1.6vw;
 
             
         
@@ -495,11 +497,11 @@ background: rgb(18, 162, 162);
         
 }
 .container-descr{
-    width: 50vw;
+    width: 40vw;
         height: 70vh;
         display: flex;
         flex-direction: column;
         border: 3px solid rgb(18, 162, 162);
-        border-radius: 25px;
+        border-radius: 1.6vw;
 
 }
